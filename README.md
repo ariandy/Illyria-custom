@@ -7,5 +7,6 @@ My Manjaro i3 18.04 custom log
 - Auto-partition installation
 
 ## Post-Installation
+- `sudo pacman -Syu`
 - Install Snap Store
 -- Install `snapd` via morc_menu
