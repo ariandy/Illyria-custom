@@ -23,3 +23,5 @@ My Manjaro i3 18.04 custom log on ASUS e202S (UEFI)
 ## Redshift
 - `sudo pacman -S redshift`
 
+## Rust
+- [Using rustup](https://www.rust-lang.org/tools/install)
