@@ -9,4 +9,4 @@ My Manjaro i3 18.04 custom log
 ## Post-Installation
 - `sudo pacman -Syu`
 - Install Snap Store
--- Install `snapd` via morc_menu
+-- Install __snapd__ via morc_menu
