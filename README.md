@@ -8,5 +8,5 @@ My Manjaro i3 18.04 custom log
 
 ## Post-Installation
 - `sudo pacman -Syu`
-- Install Snap Store
--- Install __snapd__ via morc_menu
+- [Install snap](https://docs.snapcraft.io/installing-snap-on-manjaro-linux)
+- [Install Snap Store app](https://docs.snapcraft.io/installing-snap-store-app)
