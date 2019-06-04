@@ -12,6 +12,9 @@ My Manjaro i3 18.04 custom log on ASUS e202S (UEFI)
 - Change `nitrogen` configuration
 - Change `lightdm-settings` configuration
 
+## Enable AUR
+- morc_menu > Settings > Add/remove software > ... > Preferences > AUR > Enable AUR support
+
 ## Install Snap Store app
 - [Install snapd](https://docs.snapcraft.io/installing-snap-on-manjaro-linux)
 - [Install Snap Store](https://docs.snapcraft.io/installing-snap-store-app)
@@ -19,6 +22,9 @@ My Manjaro i3 18.04 custom log on ASUS e202S (UEFI)
 ## Installed via Snap Store
 - github-desktop
 - sublime
+
+## Installed via AUR
+- timeshift
 
 ## Redshift
 - `sudo pacman -S redshift`
