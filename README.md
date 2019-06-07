@@ -9,8 +9,8 @@ My Manjaro i3 18.04 custom log on ASUS e202S (UEFI)
 ## Post-Installation
 - Disable `Launch at start` Manjaro Hello
 - `sudo pacman -Syu`
-- Change `nitrogen` configuration
-- Change `lightdm-settings` configuration
+- Change wallpaper via `nitrogen`
+- Change login-background via `lightdm-settings`
 
 ## Enable AUR
 - morc_menu > Settings > Add/remove software > ... > Preferences > AUR > Enable AUR support
@@ -23,8 +23,8 @@ My Manjaro i3 18.04 custom log on ASUS e202S (UEFI)
 - github-desktop
 - sublime
 
-## Installed via AUR
-- timeshift
+## Timeshift
+- morc_menu > Settings > Add/remove software > Search > Timeshift
 
 ## Redshift
 - `sudo pacman -S redshift`
@@ -34,3 +34,11 @@ My Manjaro i3 18.04 custom log on ASUS e202S (UEFI)
 
 ## Rust
 - [Using rustup](https://www.rust-lang.org/tools/install)
+
+## Oh-My-Zsh + PowerLevel9K
+
+## CUPS
+- `sudo pacman -S trizen base-devel --needed`
+- Install ALL
+- `trizen -S cnijfilter-ip2700series --noconfirm`
+- Configuration page : http://localhost:631/
